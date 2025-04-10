@@ -5,8 +5,6 @@ The gas cap opener is a device designed to allow users with limited grip strengt
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/gas-cap-opener/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/gas-cap-opener/)
-
 
 ## How to Obtain a Gas Cap Opener
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -64,7 +62,6 @@ Designers:
  - Design and Documentation by Neil Squire Society/Makers Making Change
 
 
-
 ## License
 Everything needed or used to design, make, test, or prepare the Gas Cap Opener is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -72,7 +69,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -90,3 +87,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
